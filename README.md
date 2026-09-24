@@ -1,7 +1,3 @@
-Yes. Below is a **detailed, professional GitHub profile README** built around everything you have actually told me. I have kept the claims accurate—especially around your programming level and AI-assisted development.
-
-You can **replace your current entire `README.md`** with this version.
-
 # 👋 Hi, I'm Prathyush
 
 ### 🎓 Computer Science Engineering Student | 🤖 AI Tools | 🌐 AI-Assisted Development | 🎨 Creative AI
